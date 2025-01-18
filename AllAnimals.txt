@@ -10,13 +10,16 @@ Mammals:
 
 2. Blaze's Fav... Bear
 
-3. Blaze's Fav... Penguin
+3. Abhishek's Fav... Lion
 
-4. Abhishek's Fav... Lion
-
-5. Abhishek's Fav... Tiger
+4. Abhishek's Fav... Tiger
 
 
 Birds
 
 1. Abhishek's Fav... Sparrow
+
+
+Fish
+
+1. Blaze's Fav... Salmon
